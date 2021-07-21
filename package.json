@@ -1,16 +1,25 @@
 {
-  "name": "rpg",
+  "name": "jest-another-rpg",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-Banks/jest-another-RPG.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacob-Banks/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Jacob-Banks/jest-another-RPG#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
   "dependencies": {
-    "inquirer": "^7.0.3",
-    "jest": "^24.9.0"
+    "inquirer": "^8.1.2"
   }
 }
